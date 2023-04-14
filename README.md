@@ -32,7 +32,7 @@ Check the project guide document for more details.
 - Fridays: lectures following the book [“A First Course in Network Science” by Menczer et al](https://cambridgeuniversitypress.github.io/FirstCourseNetworkScience/).
 - Wednesdays: ~30 min presentation on a related topic followed by a discussion of selected book exercises.
 
-- **Fri, Apr 14:** Chapter 0 - Introduction
+- **Fri, Apr 14:** Chapter 0 - Introduction [slides](https://raw.githubusercontent.com/joaopn/teaching_networks_2023/lectures/lecture_0.pdf)
 
 - **Wed, Apr 19:** Python refresh + coding tools (Github, Copilot, chatGPT)
 
