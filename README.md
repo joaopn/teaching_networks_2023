@@ -10,7 +10,7 @@ Course materials will be based primarily on the book [“A First Course in Netwo
 
 # Location
 
-The course will be held online on Zoom every Wednesday and Friday at 13h30 (link will be added later). The first lecture will be held in person in **Room D351**. 
+The course will be held online on Zoom every Wednesday and Friday at 13h30. The link was sent by email, [message me](mailto:joao.pinheiro-neto@uni-konstanz.de) if you didn't get it.
 
 # Course grading
 
@@ -29,10 +29,11 @@ Check the project guide document for more details.
 
 # Course content
 
-- Fridays: lectures following the book [“A First Course in Network Science” by Menczer et al](https://cambridgeuniversitypress.github.io/FirstCourseNetworkScience/).
-- Wednesdays: ~30 min presentation on a related topic followed by a discussion of selected book exercises.
+**Fridays**: lectures following the book [“A First Course in Network Science” by Menczer et al](https://cambridgeuniversitypress.github.io/FirstCourseNetworkScience/).
 
-- **Fri, Apr 14:** Chapter 0 - Introduction [slides](https://raw.githubusercontent.com/joaopn/teaching_networks_2023/lectures/lecture_0.pdf)
+**Wednesdays**: ~30 min presentation on a related topic followed by a discussion of selected book exercises.
+
+- **Fri, Apr 14:** [Chapter 0 - Introduction](https://github.com/joaopn/teaching_networks_2023/raw/main/lectures/lecture_0.pdf)
 
 - **Wed, Apr 19:** Python refresh + coding tools (Github, Copilot, chatGPT)
 
