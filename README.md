@@ -31,13 +31,13 @@ Check the project guide document for more details.
 
 **Fridays**: lectures following the book [“A First Course in Network Science” by Menczer et al](https://cambridgeuniversitypress.github.io/FirstCourseNetworkScience/).
 
-**Wednesdays**: ~30 min presentation on a related topic followed by a discussion of selected book exercises.
+**Wednesdays**: Discussion of selected book exercises + ~30 min presentation on a related topic.
 
 - **Fri, Apr 14:** [Chapter 0 - Introduction](https://github.com/joaopn/teaching_networks_2023/raw/main/lectures/lecture_0.pdf)
 
-- **Wed, Apr 19:** Python refresh + coding tools (Github, Copilot, chatGPT)
+- **Wed, Apr 19:** [Python coding tools](https://github.com/joaopn/teaching_networks_2023/raw/main/lectures/lecture_0_exercises.pdf)
 
-- **Fri, Apr 21:** Chapter 1 - Network Elements
+- **Fri, Apr 21:** [Chapter 1 - Network Elements](https://github.com/joaopn/teaching_networks_2023/raw/main/lectures/lecture_1.pdf)
 
 - **Wed, Apr 26:** Software carpentry
 
