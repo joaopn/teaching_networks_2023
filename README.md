@@ -39,7 +39,7 @@ Check the project guide document for more details.
 
 - **Fri, Apr 21:** [Chapter 1 - Network Elements](https://github.com/joaopn/teaching_networks_2023/raw/main/lectures/lecture_1.pdf)
 
-- **Wed, Apr 26:** Software carpentry
+- **Wed, Apr 26:** [Scientific Computing](https://github.com/joaopn/teaching_networks_2023/raw/main/lectures/lecture_1.pdf) [VIDEO](https://www.youtube.com/watch?v=iWawqGdUZEc)
 
 - **Fri, Apr 28:** Chapter 2 - Small Worlds
 
