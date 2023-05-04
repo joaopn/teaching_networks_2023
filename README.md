@@ -33,17 +33,19 @@ Check the project guide document for more details.
 
 **Wednesdays**: Discussion of selected book exercises + ~30 min presentation on a related topic.
 
+**[Exercise sessions Youtube playlist](https://www.youtube.com/playlist?list=PLOOsHDVUMKcbUSzkXRJPQPXVjGW3zk_Nl)**
+
 - **Fri, Apr 14:** [Chapter 0 - Introduction](https://github.com/joaopn/teaching_networks_2023/raw/main/lectures/lecture_0.pdf)
 
 - **Wed, Apr 19:** [Python coding tools](https://github.com/joaopn/teaching_networks_2023/raw/main/lectures/lecture_0_exercises.pdf)
 
 - **Fri, Apr 21:** [Chapter 1 - Network Elements](https://github.com/joaopn/teaching_networks_2023/raw/main/lectures/lecture_1.pdf)
 
-- **Wed, Apr 26:** [Scientific Computing](https://github.com/joaopn/teaching_networks_2023/raw/main/lectures/lecture_1.pdf). [VIDEO](https://www.youtube.com/watch?v=iWawqGdUZEc)
+- **Wed, Apr 26:** [Scientific Computing](https://github.com/joaopn/teaching_networks_2023/raw/main/lectures/lecture_1_exercises.pdf) [(VIDEO)](https://www.youtube.com/watch?v=iWawqGdUZEc)
 
-- **Fri, Apr 28:** [Chapter 2 - Small Worlds](https://github.com/joaopn/teaching_networks_2023/raw/main/lectures/lecture_2.pdf)
+- **Fri, Apr 28:** [Chapter 2 - Small Worlds](https://github.com/joaopn/teaching_networks_2023/raw/main/lectures/lecture_2.pdf) 
 
-- **Wed, May 3:** Data gathering: sites, APIs 
+- **Wed, May 3:** [Data gathering](https://github.com/joaopn/teaching_networks_2023/raw/main/lectures/lecture_2_exercises.pdf)  [(VIDEO)](https://studio.youtube.com/video/mkRa6Nrggtg)
 
 - **Fri, May 5:** Chapter 3 - Hubs
 
