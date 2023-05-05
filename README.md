@@ -47,7 +47,7 @@ Check the project guide document for more details.
 
 - **Wed, May 3:** [Data gathering](https://github.com/joaopn/teaching_networks_2023/raw/main/lectures/lecture_2_exercises.pdf)  [(VIDEO)](https://studio.youtube.com/video/mkRa6Nrggtg)
 
-- **Fri, May 5:** Chapter 3 - Hubs
+- **Fri, May 5:** [Chapter 3 - Hubs](https://github.com/joaopn/teaching_networks_2023/raw/main/lectures/lecture_3.pdf)
 
 - **Wed, May 10:** A primer on Reddit
 
@@ -83,5 +83,6 @@ Check the project guide document for more details.
 
 - Reddit full dataset (updated monthly): [Link](https://files.pushshift.io/reddit/)
 - Reddit dataset separated by subreddit (top 20k subreddits, up to 12/2022): [Link](https://academictorrents.com/details/c398a571976c78d346c325bd75c47b82edf6124e)
+- Package to analyze heavy-tailed distributions: [powerlaw](https://github.com/jeffalstott/powerlaw)
 - [Podcast] Mason Porter on Community Detection and Data Topology: [Youtube](https://www.youtube.com/watch?v=mkh3oX3fRXk)
 - [Talk] Opinion Models and Social Influence on Networks Mason Porter Department of Mathematics, UCLA: [Youtube](https://www.youtube.com/watch?v=pYXf1-_4ozo)
