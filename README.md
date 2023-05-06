@@ -45,7 +45,7 @@ Check the project guide document for more details.
 
 - **Fri, Apr 28:** [Chapter 2 - Small Worlds](https://github.com/joaopn/teaching_networks_2023/raw/main/lectures/lecture_2.pdf) 
 
-- **Wed, May 3:** [Data gathering](https://github.com/joaopn/teaching_networks_2023/raw/main/lectures/lecture_2_exercises.pdf)  [(VIDEO)](https://studio.youtube.com/video/mkRa6Nrggtg)
+- **Wed, May 3:** [Data gathering](https://github.com/joaopn/teaching_networks_2023/raw/main/lectures/lecture_2_exercises.pdf)  [(VIDEO)](https://www.youtube.com/watch?v=mkRa6Nrggtg)
 
 - **Fri, May 5:** [Chapter 3 - Hubs](https://github.com/joaopn/teaching_networks_2023/raw/main/lectures/lecture_3.pdf)
 
