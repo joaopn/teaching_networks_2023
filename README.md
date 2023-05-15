@@ -49,9 +49,9 @@ Check the project guide document for more details.
 
 - **Fri, May 5:** [Chapter 3 - Hubs](https://github.com/joaopn/teaching_networks_2023/raw/main/lectures/lecture_3.pdf)
 
-- **Wed, May 10:** A primer on Reddit
+- **Wed, May 10:** [Reddit Primer I + Power-law tutorial](https://github.com/joaopn/teaching_networks_2023/raw/main/lectures/lecture_3_exercises.pdf)
 
-- **Fri, May 12:** Chapter 4 - Directions and Weights
+- **Fri, May 12:** [Chapter 4 - Directions and Weights](https://github.com/joaopn/teaching_networks_2023/raw/main/lectures/lecture_4.pdf)
 
 - **Wed, May 17:** A primer on Reddit part II
 
