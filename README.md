@@ -49,11 +49,11 @@ Check the project guide document for more details.
 
 - **Fri, May 5:** [Chapter 3 - Hubs](https://github.com/joaopn/teaching_networks_2023/raw/main/lectures/lecture_3.pdf)
 
-- **Wed, May 10:** [Reddit Primer I + Power-law tutorial](https://github.com/joaopn/teaching_networks_2023/raw/main/lectures/lecture_3_exercises.pdf)
+- **Wed, May 10:** [A primer on Reddit part I + Power-law tutorial](https://github.com/joaopn/teaching_networks_2023/raw/main/lectures/lecture_3_exercises.pdf) Notebooks: [Ex. 3.19](https://github.com/joaopn/teaching_networks_2023/blob/main/notebooks/exercise_3_19.ipynb), [Power-laws](https://github.com/joaopn/teaching_networks_2023/blob/main/notebooks/powerlaw_examples.ipynb)
 
 - **Fri, May 12:** [Chapter 4 - Directions and Weights](https://github.com/joaopn/teaching_networks_2023/raw/main/lectures/lecture_4.pdf)
 
-- **Wed, May 17:** A primer on Reddit part II
+- **Wed, May 17:** [A primer on Reddit part II](https://github.com/joaopn/teaching_networks_2023/raw/main/lectures/lecture_4_exercises.pdf) [(VIDEO)](https://www.youtube.com/watch?v=U9g06dTqRFA), [(Notebook)](https://github.com/joaopn/teaching_networks_2023/blob/main/notebooks/exercise_4.ipynb)
 
 - **Fri, May 19:** Chapter 5 - Network Models
 
