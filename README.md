@@ -41,23 +41,23 @@ Check the project guide document for more details.
 
 - **Fri, Apr 21:** [Chapter 1 - Network Elements](https://github.com/joaopn/teaching_networks_2023/raw/main/lectures/lecture_1.pdf)
 
-- **Wed, Apr 26:** [Scientific Computing](https://github.com/joaopn/teaching_networks_2023/raw/main/lectures/lecture_1_exercises.pdf) [(VIDEO)](https://www.youtube.com/watch?v=iWawqGdUZEc)
+- **Wed, Apr 26:** [Scientific Computing](https://github.com/joaopn/teaching_networks_2023/raw/main/lectures/lecture_1_exercises.pdf) - [(VIDEO)](https://www.youtube.com/watch?v=iWawqGdUZEc)
 
 - **Fri, Apr 28:** [Chapter 2 - Small Worlds](https://github.com/joaopn/teaching_networks_2023/raw/main/lectures/lecture_2.pdf) 
 
-- **Wed, May 3:** [Data gathering](https://github.com/joaopn/teaching_networks_2023/raw/main/lectures/lecture_2_exercises.pdf)  [(VIDEO)](https://www.youtube.com/watch?v=mkRa6Nrggtg)
+- **Wed, May 3:** [Data gathering](https://github.com/joaopn/teaching_networks_2023/raw/main/lectures/lecture_2_exercises.pdf) - [(VIDEO)](https://www.youtube.com/watch?v=mkRa6Nrggtg)
 
 - **Fri, May 5:** [Chapter 3 - Hubs](https://github.com/joaopn/teaching_networks_2023/raw/main/lectures/lecture_3.pdf)
 
-- **Wed, May 10:** [A primer on Reddit part I + Power-law tutorial](https://github.com/joaopn/teaching_networks_2023/raw/main/lectures/lecture_3_exercises.pdf) Notebooks: [Ex. 3.19](https://github.com/joaopn/teaching_networks_2023/blob/main/notebooks/exercise_3_19.ipynb), [Power-laws](https://github.com/joaopn/teaching_networks_2023/blob/main/notebooks/powerlaw_examples.ipynb)
+- **Wed, May 10:** [A primer on Reddit part I + Power-law tutorial](https://github.com/joaopn/teaching_networks_2023/raw/main/lectures/lecture_3_exercises.pdf) - Notebooks: [Ex. 3.19](https://github.com/joaopn/teaching_networks_2023/blob/main/notebooks/exercise_3_19.ipynb), [Power-laws](https://github.com/joaopn/teaching_networks_2023/blob/main/notebooks/powerlaw_examples.ipynb)
 
 - **Fri, May 12:** [Chapter 4 - Directions and Weights](https://github.com/joaopn/teaching_networks_2023/raw/main/lectures/lecture_4.pdf)
 
-- **Wed, May 17:** [A primer on Reddit part II](https://github.com/joaopn/teaching_networks_2023/raw/main/lectures/lecture_4_exercises.pdf) [(VIDEO)](https://www.youtube.com/watch?v=U9g06dTqRFA), [(Notebook)](https://github.com/joaopn/teaching_networks_2023/blob/main/notebooks/exercise_4.ipynb)
+- **Wed, May 17:** [A primer on Reddit part II](https://github.com/joaopn/teaching_networks_2023/raw/main/lectures/lecture_4_exercises.pdf) - [(VIDEO)](https://www.youtube.com/watch?v=U9g06dTqRFA), [(Notebook)](https://github.com/joaopn/teaching_networks_2023/blob/main/notebooks/exercise_4.ipynb)
 
-- **Fri, May 19:** Chapter 5 - Network Models
+- **Fri, May 19:** [Chapter 5 - Network Models](https://github.com/joaopn/teaching_networks_2023/raw/main/lectures/lecture_5.pdf) - [(VIDEO)](https://www.youtube.com/watch?v=T43KzPnDURU), [(NOTEBOOK)](https://github.com/joaopn/teaching_networks_2023/blob/main/notebooks/chapter_5.ipynb)
 
-- **Wed, May 24:** Detecting inorganic dynamics in Social Media
+- **Wed, May 24:** Detecting inorganic dynamics in Social Media - [(EXERCISES)](https://github.com/joaopn/teaching_networks_2023/raw/main/lectures/lecture_5_exercises.pdf), [(NOTEBOOK)](https://github.com/joaopn/teaching_networks_2023/blob/main/notebooks/exercises_5.ipynb)
 
 - **Fri, May 26:** Chapter 6 - Communities
 
