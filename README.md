@@ -61,7 +61,7 @@ Check the project guide document for more details.
 
 - **Fri, May 26:** [Chapter 6 - Communities](https://github.com/joaopn/teaching_networks_2023/raw/main/lectures/lecture_6.pdf)
 
-- **Wed, May 31:** Descriptive vs Inference methods
+- **Wed, May 31:** [Descriptive vs Inference methods + Inorganic Communities on Reddit](https://github.com/joaopn/teaching_networks_2023/raw/main/lectures/lecture_6_exercises.pdf) - [(VIDEO)](https://www.youtube.com/watch?v=NBIc4rlz914), Exercises: [6.18](https://github.com/joaopn/teaching_networks_2023/blob/main/notebooks/exercise_6_18.ipynb), [6.20](https://github.com/joaopn/teaching_networks_2023/blob/main/notebooks/exercise_6_20.ipynb), [6.22](https://github.com/joaopn/teaching_networks_2023/blob/main/notebooks/exercise_6_22.ipynb)
 
 - **Fri, Jun 2:** Chapter 7 - Dynamics
 
