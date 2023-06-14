@@ -65,7 +65,7 @@ Check the project guide document for more details.
 
 - **Fri, Jun 2:** [Chapter 7 - Dynamics](https://github.com/joaopn/teaching_networks_2023/raw/main/lectures/lecture_7.pdf)
 
-- **Wed, Jun 14:** Handling large datasets/databases 
+- **Wed, Jun 14:** [Handling large datasets/databases](https://github.com/joaopn/teaching_networks_2023/raw/main/lectures/lecture_7_exercises.pdf) - [(VIDEO)](https://www.youtube.com/watch?v=T-4elOUSAYM), [(EXERCISES NOTEBOOK)](https://github.com/joaopn/teaching_networks_2023/blob/main/notebooks/exercise_7_19.ipynb)
 
 - **Fri, Jun 16:** Critical Phenomena on Networks
 
