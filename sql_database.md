@@ -1,3 +1,4 @@
+# Using the Reddit SQL database
 
 This serves as a short tutorial on how to install and query the Reddit SQL database. 
 
@@ -45,8 +46,7 @@ You will need to
 - Install a SQL GUI client like pgAdmin: https://www.pgadmin.org/download/ 
 
 After installing VirtualBox, you need to import the `database.ova` VM image into it. The image is 8GB and uncompresses to about 15GB.  After importing it should look like this:
-
-![[reddit_sql1.png]]
+![Figure 1](https://raw.githubusercontent.com/joaopn/teaching_networks_2023/main/figures/reddit_sql1.png)
 
 The important part is that you should have two network adapters: one for internet (NAT) and one for accessing the VM from the host computer (Host-only adapter). 
 
@@ -54,11 +54,11 @@ For login, the username is **user** and the password is **99**. Root is **passwo
 
 After starting the VM, you need to figure out its internal ip address. Here it is **192.168.56.103**, but it can change. You can check by running `ip a` and checking the inet address of the last interface. 
 
-![[reddit_sql2.png]]
+![Figure 2](https://raw.githubusercontent.com/joaopn/teaching_networks_2023/main/figures/reddit_sql2.png)
 
 You can now add the database server on pgAdmin: 
 
-![[reddit_sql3.png]]
+![Figure 3](https://raw.githubusercontent.com/joaopn/teaching_networks_2023/main/figures/reddit_sql3.png)
 
 The reddit data lies in the `datasets` database, on the `reddit.submissions` and `reddit.comments` tables. If you wish, you can change the amount of cores/RAM the VM uses on VirtualBox. To change the resources PostgreSQL uses you need to edit the `/etc/postgresql/15/main/postgresql.conf` file, taking values from [pgTune](https://pgtune.leopard.in.ua/). For this scale of data it should not be necessary, however.
 

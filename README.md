@@ -11,7 +11,7 @@ Course materials will be based primarily on the book [“A First Course in Netwo
 # Resources
 
 - Research project guide: [LINK](https://github.com/joaopn/teaching_networks_2023/blob/main/project_guidelines.md)
-- Instructions on how to use the Reddit SQL database: [LINK](https://github.com/joaopn/teaching_networks_2023/blob/main/sql_database/sql_database.md)
+- Instructions on how to use the Reddit SQL database: [LINK](https://github.com/joaopn/teaching_networks_2023/blob/main/sql_database.md)
 
 # Location
 
