@@ -8,6 +8,11 @@ The course introduces Network Science as a means to analyze social networks at s
 
 Course materials will be based primarily on the book [“A First Course in Network Science”](https://cambridgeuniversitypress.github.io/FirstCourseNetworkScience/) by Menczer et al. In parallel to that, we'll have shorter talks touching on important topics that are useful for project development. 
 
+# Resources
+
+- Research project guide: [LINK](https://github.com/joaopn/teaching_networks_2023/blob/main/project_guidelines.md)
+- Instructions on how to use the Reddit SQL database: [LINK](https://github.com/joaopn/teaching_networks_2023/blob/main/sql_database/sql_database.md)
+
 # Location
 
 The course will be held online on Zoom every Wednesday and Friday at 13h30. The link was sent by email, [message me](mailto:joao.pinheiro-neto@uni-konstanz.de) if you didn't get it.
@@ -67,7 +72,7 @@ Check the project guide document for more details.
 
 - **Wed, Jun 14:** [Handling large datasets/databases](https://github.com/joaopn/teaching_networks_2023/raw/main/lectures/lecture_7_exercises.pdf) - [(VIDEO)](https://www.youtube.com/watch?v=T-4elOUSAYM), [(EXERCISES NOTEBOOK)](https://github.com/joaopn/teaching_networks_2023/blob/main/notebooks/exercise_7_19.ipynb)
 
-- **Fri, Jun 16:** Critical Phenomena on Networks
+- **Fri, Jun 16:** [Critical Phenomena on Networks](https://github.com/joaopn/teaching_networks_2023/raw/main/lectures/lecture_8.pdf)
 
 - **Wed, Jun 21:** Sampling bias and social media data
 
@@ -79,9 +84,9 @@ Check the project guide document for more details.
 
 - **Jul 5 and Jul 7**: free, can be used if needed.
 
-# Resources
+# Links
 
-- Reddit full dataset (updated monthly): [Link](https://files.pushshift.io/reddit/)
+- Reddit full dataset: [Link](https://www.reddit.com/r/pushshift/comments/146r0dx/historical_data_torrents_all_in_one_place/)
 - Reddit dataset separated by subreddit (top 20k subreddits, up to 12/2022): [Link](https://academictorrents.com/details/c398a571976c78d346c325bd75c47b82edf6124e)
 - Package to analyze heavy-tailed distributions: [powerlaw](https://github.com/jeffalstott/powerlaw)
 - [Podcast] Mason Porter on Community Detection and Data Topology: [Youtube](https://www.youtube.com/watch?v=mkh3oX3fRXk)
