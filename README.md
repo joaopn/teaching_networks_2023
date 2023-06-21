@@ -74,7 +74,7 @@ Check the project guide document for more details.
 
 - **Fri, Jun 16:** [Critical Phenomena on Networks](https://github.com/joaopn/teaching_networks_2023/raw/main/lectures/lecture_8.pdf)
 
-- **Wed, Jun 21:** Sampling bias and social media data
+- **Wed, Jun 21:** [Sampling bias and Reddit Blackout](https://github.com/joaopn/teaching_networks_2023/raw/main/lectures/lecture_8b.pdf)
 
 - **Fri, Jun 23:** Polarization Dynamics on Networks
 
