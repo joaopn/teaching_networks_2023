@@ -76,13 +76,11 @@ Check the project guide document for more details.
 
 - **Wed, Jun 21:** [Sampling bias and Reddit Blackout](https://github.com/joaopn/teaching_networks_2023/raw/main/lectures/lecture_8b.pdf)
 
-- **Fri, Jun 23:** Polarization Dynamics on Networks
+- **Fri, Jun 23:** [Polarization Dynamics on Networks](https://github.com/joaopn/teaching_networks_2023/raw/main/lectures/lecture_9.pdf)
 
-- **Wed, Jun 28:** Depolarization mechanisms
+- **Wed, Jun 28:** SKIPPED
 
 - **Fri, Jun 30:** Scaling laws and Inequality in Social Media
-
-- **Jul 5 and Jul 7**: free, can be used if needed.
 
 # Links
 
