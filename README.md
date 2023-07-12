@@ -60,7 +60,6 @@ Check the project guide document for more details.
 
 - **Wed, May 17:** [A primer on Reddit part II](https://github.com/joaopn/teaching_networks_2023/raw/main/lectures/lecture_4_exercises.pdf) - [(VIDEO)](https://www.youtube.com/watch?v=U9g06dTqRFA), [(Notebook)](https://github.com/joaopn/teaching_networks_2023/blob/main/notebooks/exercise_4.ipynb)
 
-- **Fri, May 19:** SKIPPED
 
 - **Wed, May 24:** [Chapter 5 - Network Models](https://github.com/joaopn/teaching_networks_2023/raw/main/lectures/lecture_5.pdf) - [(VIDEO)](https://www.youtube.com/watch?v=T43KzPnDURU), [(NOTEBOOK)](https://github.com/joaopn/teaching_networks_2023/blob/main/notebooks/chapter_5.ipynb) [(EXERCISES)](https://github.com/joaopn/teaching_networks_2023/raw/main/lectures/lecture_5_exercises.pdf), [(EXERCISES NOTEBOOK)](https://github.com/joaopn/teaching_networks_2023/blob/main/notebooks/exercises_5.ipynb)
 
@@ -78,9 +77,8 @@ Check the project guide document for more details.
 
 - **Fri, Jun 23:** [Polarization Dynamics on Networks](https://github.com/joaopn/teaching_networks_2023/raw/main/lectures/lecture_9.pdf)
 
-- **Wed, Jun 28:** SKIPPED
 
-- **Fri, Jun 30:** Scaling laws and Inequality in Social Media
+- **Fri, July 07:** [Scaling laws and Inequality in Social Media](https://github.com/joaopn/teaching_networks_2023/raw/main/lectures/lecture_10.pdf)
 
 # Links
 
